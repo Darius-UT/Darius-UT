@@ -9,8 +9,8 @@ Chào mừng bạn đến với trang GitHub của tôi! Tôi là Nguyễn Lê H
 Bạn có thể liên hệ với tôi qua các phương tiện sau:
 
 - **Email**:
-  + [phuc.nguyenlehoang707@hcmut.edu.vn](mailto:phuc.nguyenlehoang707@hcmut.edu.vn) (Công việc)
-  + [nguyenlehoangphuc707@gmail.com](mailto:nguyenlehoangphuc707@gmail.com) (Cá nhân)
+  + Công việc: [phuc.nguyenlehoang707@hcmut.edu.vn](mailto:phuc.nguyenlehoang707@hcmut.edu.vn) 
+  + Cá nhân: [nguyenlehoangphuc707@gmail.com](mailto:nguyenlehoangphuc707@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **Facebook**: [Nguyễn Lê Hoàng Phúc](https://www.facebook.com/profile.php?id=100036869183564)
 - **Instagram**: [Huangfu_04](https://www.instagram.com/huangfu_04/)
