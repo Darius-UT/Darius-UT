@@ -1,7 +1,7 @@
-# 👋 AYYO XIN CHÀO MỌI NGƯỜI ĐẾN VỚI GITHUB CỦA MỘT THẰNG ĐẦN!
+# 👋 AYYO XIN CHÀO MỌI NGƯỜI ĐẾN VỚI GITHUB CỦA MÌNH!
 
 ## 📝 Giới Thiệu
-Chào mừng bạn đến với trang GitHub của tôi! Tôi là Nguyễn Lê Hoàng Phúc, một sinh viên *thiếu* niềm đam mê với *công nghệ thông tin*. Tôi tập trung vào việc phát triển sự ngu muội và không thích làm việc với máy tính.
+Tôi là sinh viên năm 3, chuyên ngành Khoa học máy tính tại trường Đại học Bách Khoa - Đại học Quốc gia thành phố Hồ Chí Minh. 
 
 ![Avatar](https://example.com/avatar.png) <!-- Thay URL bằng đường dẫn đến hình ảnh của bạn -->
 
