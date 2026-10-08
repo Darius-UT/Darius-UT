@@ -41,12 +41,39 @@ A ticketing platform for primary purchasing, controlled resale, ownership tracki
 
 ## 03 / Engineering
 
-| Area | Working set |
-| :--- | :--- |
-| **Backend** | Java · Spring Boot · REST APIs · Microservices |
-| **Data** | PostgreSQL · Redis |
-| **Interfaces** | TypeScript · React · Next.js |
-| **Delivery** | Docker · Git · k6 |
+### Backend & Systems
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/engineering/backend-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/engineering/backend-light.svg">
+  <img src="./assets/engineering/backend-light.svg" alt="Java · Spring Boot" width="552">
+</picture>
+
+REST APIs · Microservices
+
+### Data & Persistence
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/engineering/data-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/engineering/data-light.svg">
+  <img src="./assets/engineering/data-light.svg" alt="PostgreSQL · Redis" width="552">
+</picture>
+
+### Product Interfaces
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/engineering/interfaces-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/engineering/interfaces-light.svg">
+  <img src="./assets/engineering/interfaces-light.svg" alt="TypeScript · React · Next.js" width="552">
+</picture>
+
+### Delivery & Validation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/engineering/delivery-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/engineering/delivery-light.svg">
+  <img src="./assets/engineering/delivery-light.svg" alt="Docker · Git · k6" width="552">
+</picture>
 
 ## 04 / Elsewhere
 
