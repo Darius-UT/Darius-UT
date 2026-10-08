@@ -1,66 +1,57 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-light.svg" alt="Nguyễn Lê Hoàng Phúc — Software Engineer, Ho Chi Minh City, Vietnam" width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero/hero-light.svg">
+  <img src="./assets/hero/hero-light.svg" alt="Nguyễn Lê Hoàng Phúc — Software Engineer, Ho Chi Minh City, Vietnam" width="1200">
 </picture>
 
-I’m Phúc, a software engineer focused on backend systems and product engineering.
-Here you’ll find the code, system decisions, and tests behind my work.
+<!-- Replace the example.com links below with your real destinations. -->
+<p align="left">
+  <a href="https://example.com/portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/buttons/portfolio-light.svg"><img src="./assets/buttons/portfolio-light.svg" alt="View portfolio" width="184" height="40"></picture></a>
+  <a href="https://example.com/resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/resume-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/buttons/resume-light.svg"><img src="./assets/buttons/resume-light.svg" alt="View résumé" width="160" height="40"></picture></a>
+  <a href="https://www.linkedin.com/in/ph%C3%BAc-nguy%E1%BB%85n-l%C3%AA-ho%C3%A0ng-ab1702337"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/buttons/linkedin-light.svg"><img src="./assets/buttons/linkedin-light.svg" alt="LinkedIn" width="136" height="40"></picture></a>
+  <a href="mailto:nguyenlehoangphuc707@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/email-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/buttons/email-light.svg"><img src="./assets/buttons/email-light.svg" alt="Email Phúc" width="112" height="40"></picture></a>
+</p>
+
+I’m Phúc. I build backend systems and product-focused software, with attention to system boundaries, reliability, and clear engineering decisions.
 
 ## 01 / Selected Work
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/evoticket-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/projects/evoticket-light.svg">
+  <img src="./assets/projects/evoticket-light.svg" alt="EvoTicket — conceptual ticketing system map, with ordering, payment, Redis and PostgreSQL" width="1200">
+</picture>
+
 ### EvoTicket
 
-A ticketing platform covering event discovery, purchasing, official resale, ticket ownership, and admission. Currently being rebuilt around microservices.
+A ticketing platform for primary purchasing, controlled resale, ownership tracking, and event admission.
 
-**Engineering focus** — Time-bounded reservations, idempotent payment handling, asynchronous processing, and dynamic QR check-in.
+**System** — Microservices · PostgreSQL · Redis\
+**Engineering** — Time-bounded holds · idempotent payments · asynchronous processing · dynamic QR check-in\
+**Validation** — Load and spike testing with k6
 
-**Stack** — Java · Spring Boot · Next.js · PostgreSQL · Redis · Docker
-
-**Validation** — Critical flows tested with k6 load and spike scenarios.
-
-Repository: `TODO: EVOTICKET_REPO_URL` · Architecture & test reports: `TODO: EVOTICKET_DOCS_URL`
-
-<!-- Replace these plain-text placeholders with real links. Add numerical results only alongside a report describing workload, environment, and scope. -->
-
-**02 / Project slot** — `TODO: PROJECT_02_NAME` · One sentence on the problem, your contribution, and a repository link.
-
-**03 / Project slot** — `TODO: PROJECT_03_NAME` · One sentence on a distinct engineering strength and a repository link.
-
-<!-- Candidate for slot 02: Student Smart Printing Service (2024), https://github.com/trlocne/CO3001_Software_Engineering. Confirm which contributions are yours and that the repo is ready to highlight. Delete unused slots before publishing a polished version. -->
+<!-- Replace these example.com links with the repo and its supporting evidence. The cover is a conceptual sketch, not a verified deployment diagram. -->
+[SOURCE](https://example.com/evoticket/source) · [ARCHITECTURE](https://example.com/evoticket/architecture) · [TEST REPORTS](https://example.com/evoticket/tests) · [CASE STUDY](https://example.com/evoticket/case-study)
 
 ## 02 / Currently
 
-Rebuilding **EvoTicket**, with attention to consistency in concurrent purchase flows and validation through load testing.
-
-<!-- Review this sentence when project status changes; keep this section to one or two current priorities. -->
+**Building** — EvoTicket architecture rebuild\
+**Focusing** — Java · Spring Boot\
+**Studying** — Distributed systems and application architecture
 
 ## 03 / Engineering
 
-| Area | Tools & practice |
+| Area | Working set |
 | :--- | :--- |
-| Backend | Java, Spring Boot, REST APIs, microservices |
-| Data | PostgreSQL, MySQL, Redis |
-| Product interfaces | TypeScript, React, Next.js |
-| Development & validation | Docker, Git, Linux, Postman, k6 |
+| **Backend** | Java · Spring Boot · REST APIs · Microservices |
+| **Data** | PostgreSQL · Redis |
+| **Interfaces** | TypeScript · React · Next.js |
+| **Delivery** | Docker · Git · k6 |
 
-<!-- Keep only tools you can explain through actual work. Architecture tradeoffs, setup instructions, tests, and limitations belong in each project's README/docs. -->
+## 04 / Elsewhere
 
-## 04 / Lab & Open Source
+[Portfolio](https://example.com/portfolio) · [Résumé](https://example.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/ph%C3%BAc-nguy%E1%BB%85n-l%C3%AA-ho%C3%A0ng-ab1702337) · [Email](mailto:nguyenlehoangphuc707@gmail.com)
 
-<details>
-  <summary>Experiments & older work — to be curated</summary>
+---
 
-`TODO: LAB_OR_CONTRIBUTION_URL` — Add a small experiment or contribution with a clear question, your change, and a reproducible result.
-
-<!-- Optional section: remove it until you have work to show. Keep 3–5 entries at most; do not collapse the flagship project. -->
-
-</details>
-
-## 05 / Elsewhere
-
-[Email](mailto:nguyenlehoangphuc707@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ph%C3%BAc-nguy%E1%BB%85n-l%C3%AA-ho%C3%A0ng-ab1702337)
-
-Portfolio: `TODO: PORTFOLIO_URL` · CV: `TODO: CV_URL`
-
-<!-- Portfolio = case-study storytelling. CV = qualifications. This profile = engineering proof. Replace the TODO labels with links; omit unavailable destinations rather than linking to dummy URLs. -->
+<sub>NLHP / 2026 · Backend systems & product engineering</sub>
