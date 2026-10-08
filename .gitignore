@@ -1,0 +1,25 @@
+# Synced reference documents and generated CV exports
+/sources/
+/output/
+
+# Local image previews; keep the SVG assets tracked
+/assets/preview-*.png
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local secrets (keep example configuration available)
+.env
+.env.*
+!.env.example
+
+# Temporary files and operating-system metadata
+*.tmp
+*.temp
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
